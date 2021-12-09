@@ -1,7 +1,6 @@
 - Hi there 👋
 - I’m @riyaroy2086
 - I'm a 1st year IT undergrad.
-- Currently, I'm working on something cool.
 - 🌱 I’m currently learning Java.
 - 👀 I’m interested in Web Development.
 - 💞️ I’m looking to collaborate on web development projects.
