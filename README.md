@@ -3,7 +3,7 @@
 - I'm a 1st year IT undergrad.
 - 🌱 I’m currently learning Java.
 - 👀 I’m interested in Web Development.
-- 💞️ I’m looking to collaborate on web development projects.
+- 💞️ I’m looking forward to collaborate on web development projects.
 - 📫 How to reach me : riyaroy2086@gmail.com
 
 <!---
