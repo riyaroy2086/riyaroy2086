@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya Roy</h1>
-<h3 align="center">A girl trying to explore:)</h3>
+<h3 align="center">A Girl trying to Explore:)</h3>
 
 - 🌱 I’m currently learning **Java**
 
