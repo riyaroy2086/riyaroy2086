@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riya Roy</h1>
 <h3 align="center">A Girl trying to Explore :)</h3>
 
--🔭 I’m currently working on **Node.js**
+- 🔭 I’m currently working on **Node.js**
 
 - 📫 How to reach me **riyaroy2086@gmail.com**
 
