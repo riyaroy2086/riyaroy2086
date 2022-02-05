@@ -1,11 +1,28 @@
 <h1 align="center">Hi 👋, I'm Riya Roy</h1>
-<h3 align="center">A Girl trying to Explore:)</h3>
+<h3 align="center">A Girl trying to Explore :)</h3>
+
 
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **riyaroy2086@gmail.com**
 
-- ⚡ Fun fact **I love books.**
+- ⚡ Fun fact **I love cats .**
+
+<!-- ![](https://komarev.com/ghpvc/?username=riyaroy2086&color=blueviolet&style=plastic&align=center) -->
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=riyaroy2086&show_icons=true&theme=radical">
+
+
+<img  width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=riyaroy2086&date_format=M%20j%5B%2C%20Y%5D">
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=riyaroy2086&theme=dracula">
+
+
+<hr>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
