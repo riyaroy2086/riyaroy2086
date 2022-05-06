@@ -81,10 +81,10 @@
  <br>
  
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=riyaroy2086&theme=radical)](https://github.com/riyaroy2086/riyaroy2086) -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=ToDos-list-CRUD-app&theme=radical)](https://github.com/riyaroy2086/ToDos-list-CRUD-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=BlogPrism&theme=radical)](https://github.com/riyaroy2086/BlogPrism)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=XpensoMeter&theme=radical)](https://github.com/riyaroy2086/XpensoMeter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Social-Media-Web-App&theme=radical)](https://github.com/riyaroy2086/Social-Media-Web-App)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=YouTube-Channel-Portfolio&theme=radical)](https://github.com/riyaroy2086/YouTube-Channel-Portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Data-Structures-and-Algorithms&theme=radical)](https://github.com/riyaroy2086/Data-Structures-and-Algorithms)
 
 
 </div>
