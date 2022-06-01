@@ -1,7 +1,7 @@
 <p align="center">
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
  <p/>
-<h1 align="center">Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Riya Roy  </h1>
+<h1 align="center">Hola! 👋 , I'm Riya Roy  </h1>
 <h3 align="center">A Girl trying to Explore 🔭 
 
 <!-- <img align="right" width="45%" height="45%" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"> -->
@@ -23,24 +23,24 @@
 <br>
 <p align="center">
   <em>
-    <b>Riya</b> here, an <b>IT undergrad freshman</b>.  <br>
-    A budding <b> Web Developer </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and Also a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    <b>Riya</b> here, an <b>IT undergrad freshman</b>. ✨ <br>
+    A budding <b> Web Developer👩‍💻 </b> and Also a <b>Competitive Programming Enthusiast</b>&nbsp;,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>grow 🚀</b> and 
+    <b>excel 🏅</b> .
   </em> 
   <br>
  
 </p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43">&nbsp;***About me***
 - 🌱 I’m currently learning :
   **Java** & **Mern Stack**
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 📈 I love to invest in Stock Market , 🎵 listen to music, and 📆 explore new places.
 - 📫 Reach out to me at : **riyaroy2086@gmail.com**
-- ⚡ Fun fact : I love cats  <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43">
+- ⚡ Fun fact : I love MARVEL movies ✨ .
 
 <!-- ![](https://komarev.com/ghpvc/?username=riyaroy2086&color=blueviolet&style=plastic&align=center) -->
 
