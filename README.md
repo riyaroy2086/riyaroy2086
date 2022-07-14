@@ -23,7 +23,7 @@
 <br>
 <p align="center">
   <em>
-    <b>Riya</b> here, an <b>IT undergrad freshman</b>. ✨ <br>
+    <b>Riya</b> here, an <b>IT undergrad sophomore</b>. ✨ <br>
     A budding <b> Web Developer👩‍💻 </b> and Also a <b>Competitive Programming Enthusiast</b>&nbsp;,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow 🚀</b> and 
