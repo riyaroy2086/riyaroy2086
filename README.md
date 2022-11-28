@@ -39,8 +39,8 @@
 </p>
 
 ## <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43">&nbsp;***About me***
-- 🌱 I’m currently learning :
-  **Go** & **Backend Development using Nest.js**
+<!-- - 🌱 I’m currently learning :
+  **Go** & **Backend Development using Nest.js** -->
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📈 I love to invest in Stock Market , 🎵 listen to music, and 📆 explore new places.
