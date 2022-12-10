@@ -1,8 +1,8 @@
 <p align="center">
  
-<!-- <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" /> -->
+ <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" /> 
  <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+   <!-- <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">-->
 </p>
 
  <p/>
@@ -20,6 +20,7 @@
 <a href="https://www.codechef.com/users/riya_roy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="riya_roy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eupho_riya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eupho_riya" height="30" width="40" /></a>
 <a href="https://medium.com/@riyaroy2086"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="eupho_riya" height="30" width="40" /></a>
+
 <!-- <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/riyaroy2086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/riyaroy2086" height="30" width="40" /></a> -->
 
  
@@ -39,11 +40,10 @@
 </p>
 
 ## <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43">&nbsp;***About me***
-<!-- - 🌱 I’m currently learning :
-  **Go** & **Backend Development using Nest.js** -->
+- 🔭 I'm currntly working on ML projects.
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📈 I love to invest in Stock Market , 🎵 listen to music, and 📆 explore new places.
+- 🎀 Outside tech, 📈 I love to invest in Stock Market and Crypto , 👾create NFT collections, and 📆 explore new places.
 - 📫 Reach out to me at : **riyaroy2086@gmail.com**
 - ⚡ Fun fact : I love MARVEL movies ✨ .
 
@@ -51,12 +51,15 @@
 
 <h2>👀 My github Stats</h2>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=riyaroy2086&show_icons=true&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=riyaroy2086&show_icons=true&theme=chartreuse-dark">
 
-<img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaroy2086&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center"  alt="Riya's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaroy2086&count_private=true&theme=chartreuse-dark" alt="Jas-Script" />
+<img align="center"  alt="Riya's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact&langs_count=9&theme=chartreuse-dark&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
 <!--<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact"> --> 
-<img src="https://activity-graph.herokuapp.com/graph?username=riyaroy2086&theme=redical&hide_border=true&area=true">
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=riyaroy2086&theme=chartreuse-dark)
+<!--<img src="https://activity-graph.herokuapp.com/graph?username=riyaroy2086&theme=chartreuse-dark&hide_border=true&area=true">--> 
+
 <hr>
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
@@ -112,10 +115,10 @@
  <h2>🚀My Latest Update : </h2>
  <br>
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Krypto-Kookies-App&theme=radical)](https://github.com/riyaroy2086/Krypto-Kookies-App) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=BlogPrism&theme=radical)](https://github.com/riyaroy2086/BlogPrism)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=XpensoMeter&theme=radical)](https://github.com/riyaroy2086/XpensoMeter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Social-Media-Web-App&theme=radical)](https://github.com/riyaroy2086/Social-Media-Web-App)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Krypto-Kookies-App&theme=chartreuse-dark)](https://github.com/riyaroy2086/Krypto-Kookies-App) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=BlogPrism&theme=chartreuse-dark)](https://github.com/riyaroy2086/BlogPrism)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=XpensoMeter&theme=chartreuse-dark)](https://github.com/riyaroy2086/XpensoMeter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Social-Media-Web-App&theme=chartreuse-dark)](https://github.com/riyaroy2086/Social-Media-Web-App)
 
 
 
