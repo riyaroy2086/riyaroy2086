@@ -51,10 +51,10 @@
 
 <h2>👀 My github Stats</h2>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=riyaroy2086&show_icons=true&theme=chartreuse-dark">
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=riyaroy2086&show_icons=true&theme=chartreuse-dark"> -->
 
 <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaroy2086&count_private=true&theme=chartreuse-dark" alt="Jas-Script" />
-<img align="center"  alt="Riya's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact&langs_count=9&theme=chartreuse-dark&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<!-- <img align="center"  alt="Riya's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact&langs_count=9&theme=chartreuse-dark&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/> -->
 <!--<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact"> --> 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=riyaroy2086&theme=chartreuse-dark)
@@ -112,14 +112,14 @@
  </p>
  
 
- <h2>🚀My Latest Update : </h2>
- <br>
+<!--  <h2>🚀My Latest Update : </h2>
+ <br> -->
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Krypto-Kookies-App&theme=chartreuse-dark)](https://github.com/riyaroy2086/Krypto-Kookies-App) 
+<!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Krypto-Kookies-App&theme=chartreuse-dark)](https://github.com/riyaroy2086/Krypto-Kookies-App) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=BlogPrism&theme=chartreuse-dark)](https://github.com/riyaroy2086/BlogPrism)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=XpensoMeter&theme=chartreuse-dark)](https://github.com/riyaroy2086/XpensoMeter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Social-Media-Web-App&theme=chartreuse-dark)](https://github.com/riyaroy2086/Social-Media-Web-App)
-
+ -->
 
 
 </div>
