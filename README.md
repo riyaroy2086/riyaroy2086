@@ -13,7 +13,7 @@
 </h3>
 <p align="center">
 <a href="https://linkedin.com/in/riyaroy2086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyaroy2086" height="30" width="40" /></a>
-<a href="https://twitter.com/riyaroy2086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyaroy2086" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/riyaroy2086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyaroy2086" height="30" width="40" /></a> -->
  <a href="https://github.com/riyaroy2086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="riyaroy2086" height="30" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/riyaroy2086/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="riyaroy2086" height="30" width="40" /></a>
 <a href="https://leetcode.com/riyaroy2086/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riyaroy2086" height="30" width="40" /></a>
