@@ -1,8 +1,8 @@
 <p align="center">
  
- <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" /> 
+<!--  <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />  -->
  <p align="center">
-   <!-- <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">-->
+   <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
 </p>
 
  <p/>
@@ -20,6 +20,8 @@
 <a href="https://www.codechef.com/users/riya_roy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="riya_roy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eupho_riya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eupho_riya" height="30" width="40" /></a>
 <a href="https://medium.com/@riyaroy2086"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="eupho_riya" height="30" width="40" /></a>
+ <a href="https://twitter.com/@riyaroy_tech"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eupho_riya" height="30" width="40" /></a>
+ <a href="https://instagram.com/@riyaroy_tech"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eupho_riya" height="30" width="40" /></a>
 
 <!-- <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/riyaroy2086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/riyaroy2086" height="30" width="40" /></a> -->
 
@@ -51,14 +53,14 @@
 
 <h2>👀 My github Stats</h2>
 
-<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=riyaroy2086&show_icons=true&theme=chartreuse-dark"> -->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=riyaroy2086&show_icons=true&theme=monokai">
 
-<img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaroy2086&count_private=true&theme=chartreuse-dark" alt="Jas-Script" />
-<!-- <img align="center"  alt="Riya's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact&langs_count=9&theme=chartreuse-dark&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/> -->
-<!--<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact"> --> 
+<img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaroy2086&count_private=true&theme=monokai" alt="Jas-Script" />
+<img align="center"  alt="Riya's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact&langs_count=9&theme=monokai&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact">  -->
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=riyaroy2086&theme=chartreuse-dark)
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=riyaroy2086&theme=chartreuse-dark&hide_border=true&area=true">--> 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=riyaroy2086&theme=monokai)
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=riyaroy2086&theme=midnight-purple&hide_border=true&area=true">  -->
 
 <hr>
 
