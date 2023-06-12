@@ -52,9 +52,9 @@
 <!-- ![](https://komarev.com/ghpvc/?username=riyaroy2086&color=blueviolet&style=plastic&align=center) -->
 
 <h2>👀 My github Stats</h2>
-<img align="left" width="35%" height="30%" src="https://github-readme-stats.vercel.app/api?username=riyaroy2086&show_icons=true&theme=monokai">
+<img align="left" width="33%" height="30%" src="https://github-readme-stats.vercel.app/api?username=riyaroy2086&show_icons=true&theme=monokai">
 <img align="left" width="35%" height="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaroy2086&count_private=true&theme=monokai" alt="Jas-Script" />
-<img align="left" height="25%" width="22%" alt="Riya's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact&langs_count=9&theme=monokai&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<img align="left" height="25%" width="24%" alt="Riya's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact&langs_count=9&theme=monokai&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
 <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact">  -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaroy2086&bg_color=272822&color=f1f1eb&line=cc215f&point=e28905&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -84,14 +84,14 @@
  
 
 <h2>🚀My Latest Update : </h2>
- <br> 
- 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Krypto-Kookies-App&theme=chartreuse-dark)](https://github.com/riyaroy2086/Krypto-Kookies-App) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=BlogPrism&theme=chartreuse-dark)](https://github.com/riyaroy2086/BlogPrism)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=XpensoMeter&theme=chartreuse-dark)](https://github.com/riyaroy2086/XpensoMeter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Social-Media-Web-App&theme=chartreuse-dark)](https://github.com/riyaroy2086/Social-Media-Web-App)
- 
+<br> 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=BlogPrism&theme=monokai)](https://github.com/riyaroy2086/BlogPrism) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Krypto-Kookies-App&theme=monokai)](https://github.com/riyaroy2086/Krypto-Kookies-App) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=AKAI&theme=monokai)](https://github.com/riyaroy2086/AKAI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Code-Less&theme=monokai)](https://github.com/riyaroy2086/Code-Less)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=DSA&theme=monokai)](https://github.com/riyaroy2086/DSA)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=ML-Projects&theme=monokai)](https://github.com/riyaroy2086/ML-Projects)
 
 </div>
 
