@@ -52,17 +52,14 @@
 <!-- ![](https://komarev.com/ghpvc/?username=riyaroy2086&color=blueviolet&style=plastic&align=center) -->
 
 <h2>👀 My github Stats</h2>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=riyaroy2086&show_icons=true&theme=monokai">
-
-<img align="center"  alt="Riya's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact&langs_count=9&theme=monokai&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-
-
-<img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaroy2086&count_private=true&theme=monokai" alt="Jas-Script" />
-
+<img align="left" width="35%" height="30%" src="https://github-readme-stats.vercel.app/api?username=riyaroy2086&show_icons=true&theme=monokai">
+<img align="left" width="35%" height="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaroy2086&count_private=true&theme=monokai" alt="Jas-Script" />
+<img align="left" height="25%" width="22%" alt="Riya's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact&langs_count=9&theme=monokai&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
 <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaroy2086&layout=compact">  -->
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=riyaroy2086&theme=monokai)
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=riyaroy2086&theme=midnight-purple&hide_border=true&area=true">  -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaroy2086&bg_color=272822&color=f1f1eb&line=cc215f&point=e28905&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <hr>
 
