@@ -89,8 +89,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=BlogPrism&theme=monokai)](https://github.com/riyaroy2086/BlogPrism) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Krypto-Kookies-App&theme=monokai)](https://github.com/riyaroy2086/Krypto-Kookies-App) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=AKAI&theme=monokai)](https://github.com/riyaroy2086/AKAI)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Code-Less&theme=monokai)](https://github.com/riyaroy2086/Code-Less)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=DSA&theme=monokai)](https://github.com/riyaroy2086/DSA)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=Code-Less&theme=monokai)](https://github.com/riyaroy2086/Code-Less)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaroy2086&repo=ML-Projects&theme=monokai)](https://github.com/riyaroy2086/ML-Projects)
 
 </div>
