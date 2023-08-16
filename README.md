@@ -32,7 +32,7 @@
 <p align="center">
   <em>
     <b>Riya</b> here, an <b>IT Pre-Final Year Undergrad </b>. ✨ <br>
-    A budding <b> MERN Stack Developer👩‍💻 </b> and Also a <b>Competitive Programming Enthusiast</b>&nbsp;,<br>who is <b>obsessed</b>
+    A budding <b> MERN Stack Developer👩‍💻, ML Geek 📌 </b> and Also a <b>Competitive Programming Enthusiast</b>&nbsp;,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow 🚀</b> and 
     <b>excel 🏅</b> .
