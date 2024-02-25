@@ -14,15 +14,15 @@
 </h3>
 <p align="center">
 <a href="https://linkedin.com/in/riyaroy2086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyaroy2086" height="30" width="40" /></a>
-<!-- <a href="https://twitter.com/riyaroy2086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyaroy2086" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/riyaroy_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyaroy2086" height="30" width="40" /></a> -->
  <a href="https://github.com/riyaroy2086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="riyaroy2086" height="30" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/riyaroy2086/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="riyaroy2086" height="30" width="40" /></a>
 <a href="https://leetcode.com/riyaroy2086/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riyaroy2086" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/riya_roy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="riya_roy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eupho_riya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eupho_riya" height="30" width="40" /></a>
-<a href="https://medium.com/@riyaroy2086"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="eupho_riya" height="30" width="40" /></a>
- <a href="https://twitter.com/@riyaroy_2086"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eupho_riya" height="30" width="40" /></a>
- <a href="https://instagram.com/@riyaroy_2086"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eupho_riya" height="30" width="40" /></a>
+<a href="https://medium.com/@riyaroy.dev"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="eupho_riya" height="30" width="40" /></a>
+ <a href="https://twitter.com/@riyaroy_me"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eupho_riya" height="30" width="40" /></a>
+ <a href="https://instagram.com/@riyaroy.dev"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eupho_riya" height="30" width="40" /></a>
 
 <!-- <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/riyaroy2086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/riyaroy2086" height="30" width="40" /></a> -->
 
@@ -33,7 +33,7 @@
 <p align="center">
   <em>
     <b>Riya</b> here, an <b>IT Pre-Final Year Undergrad </b>. ✨ <br>
-    A budding <b> MERN Stack Developer👩‍💻, ML Geek 📌 </b> and Also a <b>Competitive Programming Enthusiast</b>&nbsp;,<br>who is <b>obsessed</b>
+    A budding <b> Automation Dev , MERN Stack Developer👩‍💻, ML Geek 📌 </b> and Also a <b>Competitive Programming Enthusiast</b>&nbsp;,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow 🚀</b> and 
     <b>excel 🏅</b> .
@@ -44,7 +44,7 @@
 
 ## <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43">&nbsp;***About me***
 - 🔭 I'm currntly working on ML projects.
-- 👯 I’m looking forward to collaborate on open source projects.
+- 👯 I’m looking forward to collaborate on projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - 🎀 Outside tech, 📈 I love to invest in Stock Market and Crypto , 👾create NFT collections, and 📆 explore new places.
 - 📫 Reach out to me at : **riyaroy2086@gmail.com**
